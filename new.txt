@@ -1,2 +1,2 @@
 new git
-secong line
+second line
