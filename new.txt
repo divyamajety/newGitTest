@@ -1,3 +1,3 @@
 new git
-second line edited by user1
+second line edited 
 Third line
